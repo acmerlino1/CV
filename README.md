@@ -1,6 +1,6 @@
-## Your Name
+## Alicia Merlino
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what exictes you about tech.
+I'm a motivated and ambitious full-stack developer. I have 3 years experience Working as a pharmacist in Sydney Australia, where I first realised the power of new technologies. When I moved to London in January 2019, I completed a Code First Girls course, where I fell in love with coding. What I like is the ability to combine my creativity with problem solving and the endless learing that comes with it. The opportuntiy to continue learning and growing as a developer is key for me in finding a developer role.
 
 ## Skills
 
@@ -23,18 +23,19 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (December 2019 to March 2020)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
+- Pair Programming
 
-#### Your University / College (start_date to end_date)
+#### The University of Sydney, Bachelor of Pharmacy (March 2013 to August 2016)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Graduated BPharm with Distinction
+- Major in International Pharmacy
+- Exchange semester at The University of Copenhagen, Denmark, August 2016 to February 2017
 
 #### Any other qualifications
 
@@ -42,14 +43,16 @@ That in some arguable way make you a better software developer or well-rounded p
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-- Any experience relevent to software development
+**Easyfairs, London** (April 2019 to November 2019)    
+*Sales Executive*  
+- 
 
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Blooms the Chemist, Sydney, Australia** (June 2018 to February 2019)   
+*Pharmacist*  
 - Any experience relevent to software development
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+Sewing - dress making and embroidery - creativity
+Yoga - de-stress/for mental health
+Books/Reading
