@@ -1,6 +1,6 @@
 ## Alicia Merlino
 
-I'm a motivated and ambitious full-stack developer. I have three years experience working as a pharmacist in Sydney, Australia, where I first realised the power of new technologies. When I moved to London in January 2019, I completed a Code First Girls course, where I fell in love with coding. My favourite part of software development is the ability to combine creativity and problem solving and the endless learning that comes with it. The opportuntiy to continue learning and growing as a developer is key for me in finding a developer role.
+I'm a motivated and ambitious full-stack developer. I have three years experience working as a pharmacist in Sydney, Australia, where I first realised the power of new technologies. When I moved to London in January 2019, I completed a [Code First Girls](https://www.codefirstgirls.org.uk/) course, where I fell in love with coding. My favourite part of software development is the ability to combine creativity and problem solving and the endless learning that comes with it. The opportuntiy to continue learning and growing as a developer is key for me in finding a developer role.
 
 ## Skills
 
