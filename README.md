@@ -16,6 +16,13 @@ When I was working as a Pharmacist I was the sole pharmacist in charge of supply
 
 Throughout the 3 months at Makers, I have been determined and committed to learning as much as I can. This has allowed me to pick up React and Node.js during my final project without being taught it during the course. This attitude has helped me in my past experiences as well, especially in sport where I competed in the Australian National Championships and Commonwealth Games Trials in Swimming.
 
+## Projects
+
+|Projects       | Description   | Technologies|
+| ------------- |:-------------:| -----:|
+| AceBook      | A Facebook clone created over 2 weeks at Makers | Ruby, Rails, Postgres, Bootstrap, HTML, CSS, Rspec, Cabybara, Heroku, Travis|
+| The Vishual Project      | A front-end music visualiser built for the final project. It uses the Spotify API to turn song data into colorful shapes       |   React.js, Node.js, OAuth, Bootstrap, CSS, Cypress |
+| Bank Account  | A bank account tech test which demonstrates OOP, TDD |    Ruby, Rspec |
 
 ## Education
 
