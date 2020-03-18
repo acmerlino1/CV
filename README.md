@@ -20,6 +20,7 @@ Throughout the 3 months at Makers, I have been determined and committed to learn
 
 |Projects       | Description   | Technologies|
 | ------------- |:-------------:| -----:|
+|Lost in London | Personal Project. An app to help people in London find suggestions of where to go based on interestes | Ruby, Rails |
 | AceBook      | A Facebook clone created over 2 weeks at Makers | Ruby, Rails, Postgres, Bootstrap, HTML, CSS, Rspec, Cabybara, Heroku, Travis|
 | The Vishual Project      | A front-end music visualiser built for the final project. It uses the Spotify API to turn song data into colorful shapes       |   React.js, Node.js, OAuth, Bootstrap, CSS, Cypress |
 | Bank Account  | A bank account tech test which demonstrates OOP, TDD |    Ruby, Rspec |
