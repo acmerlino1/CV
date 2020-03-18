@@ -60,6 +60,6 @@ Throughout the 3 months at Makers, I have been determined and committed to learn
 
 ## Hobbies
 
-- Sewing - dress making and embroidery
+- Sewing - dress making and embroidery.
 - Yoga - de-stress and manage my mental health
 - Reading - my favourite book is The Shadow of the Wind, Carlos Ruiz Zafon
