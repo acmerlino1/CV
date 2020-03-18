@@ -30,8 +30,8 @@ Throughout the 3 months at Makers, I have been determined and committed to learn
 #### Makers Academy (December 2019 to March 2020)
 
 - Three months at Makers Academy coding bootcamp where I learnt the principles of coding
-- Object Oriented Programming, Test Driven Development, MVC, DDD
-- Agile/XP
+- Object Oriented Programming, Test Driven Development, MVC, Domain Driven Development
+- Agile/XP practices
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 - React.js, Node.js, Cypress, 
@@ -48,6 +48,8 @@ Throughout the 3 months at Makers, I have been determined and committed to learn
 **Easyfairs, London** (April 2019 to November 2019)    
 *Sales Executive*  
 - Established working relationships with companies from different countries
+- Focus on understanding client needs to provide best value for them
+- Learn new sales skills in 6 months
 
 **Blooms the Chemist, Sydney, Australia** (June 2018 to February 2019)   
 *Pharmacist*  
@@ -58,6 +60,6 @@ Throughout the 3 months at Makers, I have been determined and committed to learn
 
 ## Hobbies
 
-Sewing - dress making and embroidery
-Yoga - de-stress and manage my mental health
-Books/Reading
+- Sewing - dress making and embroidery
+- Yoga - de-stress and manage my mental health
+- Reading - my favourite book is The Shadow of the Wind, Carlos Ruiz Zafon
