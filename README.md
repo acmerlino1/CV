@@ -22,7 +22,7 @@ Throughout the 3 months at Makers, I have been determined and committed to learn
 | ------------- |:-------------:| -----:|
 |[Lost in London](https://github.com/acmerlino1/lost-in-london) | Personal Project. An app to help people in London find suggestions of where to go based on interestes | Ruby, Rails |
 | [AceBook](https://github.com/acmerlino1/acebook-inSANE)     | A Facebook clone created over 2 weeks at Makers | Ruby, Rails, Postgres, Bootstrap, HTML, CSS, Rspec, Cabybara, Heroku, Travis|
-| The Vishual Project      | A front-end, single page music visualiser built for the final project. It uses the Spotify API to turn song data into colorful shapes       |   React.js, Node.js, OAuth, Bootstrap, CSS, Cypress |
+| [The Vishual Project](https://github.com/acmerlino1/Front-End-Vishual)     | A front-end, single page music visualiser built for the final project. It uses the Spotify API to turn song data into colorful shapes       |   React.js, Node.js, OAuth, Bootstrap, CSS, Cypress |
 | [Bank Account](https://github.com/acmerlino1/Bank-Challenge)  | A bank account tech test which demonstrates OOP, TDD |    Ruby, Rspec |
 
 ## Education
