@@ -10,7 +10,7 @@ I enjoy working in teams and helping everyone to reach a common goal. At Makers 
 
 #### Problem Solving
 
-When I was working as a Pharmacist I was the sole pharmacist in charge of supplying medication to over 300 patients at local mental health facilities. A problem I faced was ensuring all medication being sent out was checked before delivery, and recorded correctly. To manage this, I implemented a process using an excel checklist with each patient listed by the centre they were attending, their medication list and dosage. Before dispensing, I would cross reference the excel spreadsheet to confirm dosage and record delivery. This was very successful as it added confidence to the previously adhoc process.
+When I was working as a Pharmacist I was the sole pharmacist in charge of supplying medication to over 300 patients at local mental health facilities. A problem I faced was managing the logistics of getting medication to each patient, ensuring all medication was checked before delivery, and recorded correctly. To manage this, I implemented a process using an excel checklist with each patient listed by the centre they were attending, their medication list and dosage. Before dispensing, I would cross reference the excel spreadsheet to confirm dosage and record delivery. This was very successful as it added confidence to the previously adhoc process.
 
 #### Commitment
 
