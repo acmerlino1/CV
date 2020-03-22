@@ -10,7 +10,7 @@ I enjoy working in teams and helping everyone to reach a common goal. At Makers 
 
 #### Problem Solving
 
-When I was working as a Pharmacist I was the sole pharmacist in charge of supplying medication to over 300 patients at local mental health facilities. A problem I faced was managing the logistics of getting medication to each patient, ensuring all medication was checked before delivery, and recorded correctly. To manage this, I implemented a process using an excel checklist with each patient listed by the centre they were attending, their medication list and dosage. Before dispensing, I would cross reference the excel spreadsheet to confirm dosage and record delivery. This was very successful as it added confidence to the previously adhoc process.
+When I was working as a Pharmacist I was the sole pharmacist in charge of dispensing/packing medication, checking it was correct and organising deliveries for over 300 patients across 5 mental health facilities in Sydney. Managing the logistics was a challenge as there were frequent changes in medication doses at short notice. I implemented a new process to ensure I had a thorough record of who I had already dispensed medication for and who’s dose had changed. I created an excel spreadsheet which listed each patient, the clinic they were attending, their medications and doses, and whether I had dispensed the medicine for that month. When I was checking that all medication was ready for delivery, I could use this spreadsheet to tick if every patient had their medicines packed and correct, and then double check dose changes right before delivery. This had a huge impact as there had been cases where medicines were delivered without the dose change being made.
 
 #### Commitment
 
